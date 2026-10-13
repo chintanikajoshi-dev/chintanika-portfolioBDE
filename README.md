@@ -15,7 +15,7 @@ It highlights my experience in business development, client acquisition, strateg
 - GitHub Pages (Hosting)
 
 ## Live Portfolio
-- 
+- https://github.com/chintanikajoshi-dev/chintanika-portfolioBDE/settings/pages
 
 ## Contact & Connect
 - **LinkedIn:**  www.linkedin.com/in/chintanika-joshi-10835941a
